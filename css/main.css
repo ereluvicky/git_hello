@@ -1,0 +1,69 @@
+header{
+	margin: 15px 0 20px 0;
+}
+
+
+.logo-container{
+	border-bottom: 4px solid #7d97ad;
+}
+
+
+.logo{
+	float: left
+}
+
+
+.site-name{
+	float: right;
+	text-align: right;
+}
+
+.box{
+	margin: 0 25px 10px 0;
+	float: right;
+}
+
+
+.color-picker{
+	width: 100px;
+	height: 100px;
+	float: right;
+}
+
+
+.blue-box{
+	background-color:#02b3e4;
+}
+
+
+.black-box{
+	background-color:#2d3c49;
+}
+
+
+.gray-box{
+	background-color:#7d97ad;
+}
+
+
+footer {
+	margin-top: 30px;
+}
+
+
+.featured-works{
+	color: #7d97ad;
+}
+
+
+.box p{
+	font-weight: bold;
+	font-size: 1.8em;
+	text-align: right;
+	color: #7d97ad;
+}
+
+
+.featured-sections h1, h2, p{
+	text-align: center;
+}
